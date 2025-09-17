@@ -22,7 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          Hi there this is a test to see if the hot module replacement works!
+          Hi this is another test. It is my first time using Vite with React.
         </p>
       </div>
       <p className="read-the-docs">
